@@ -1,0 +1,13 @@
+table,tbody, thead, th, td {
+    border: 1px solid;
+}
+table {
+    width: 50%;
+}
+td {
+    text-align: center;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
